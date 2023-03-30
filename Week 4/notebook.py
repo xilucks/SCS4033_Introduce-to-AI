@@ -2,9 +2,9 @@ import time
 from collections import defaultdict
 from inspect import getsource
 
-import ipywidgets as widgets
+#import ipywidgets as widgets
 import matplotlib.pyplot as plt
-import networkx as nx
+#import networkx as nx
 import numpy as np
 from IPython.display import HTML
 from IPython.display import display
