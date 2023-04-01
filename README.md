@@ -4,4 +4,6 @@
 |Week|Contents|Video|
 |:---:|---|---|
 |1|Colab과 라이브러리, 인공지능 기초 수학, 실습 난이도 설문조사||
-|2|Search Algorithm|https://youtu.be/9IYahtP33bw|
+|2|Uninformed Search Algorithm|https://youtu.be/9IYahtP33bw|
+|3|Logic|https://youtu.be/l1QL1684XDY|
+|4|Probability|https://youtu.be/6ETIKZ6fUSc|
