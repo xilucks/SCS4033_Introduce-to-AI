@@ -1,7 +1,7 @@
 # SCS4033_Introduce-to-AI
 동국대학교 인공지능 입문(SCS4033) 강의 실습 자료 repository 입니다.<br><br>
 
-|Week|Contents|
-|:---:|---|
-|1|Colab과 라이브러리, 인공지능 기초 수학, 실습 난이도 설문조사|
-|2|Search Algorithm|
+|Week|Contents|Video|
+|:---:|---|---|
+|1|Colab과 라이브러리, 인공지능 기초 수학, 실습 난이도 설문조사||
+|2|Search Algorithm|https://youtu.be/9IYahtP33bw|
