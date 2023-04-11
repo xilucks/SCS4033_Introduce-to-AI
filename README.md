@@ -7,3 +7,4 @@
 |2|Uninformed Search Algorithm|https://youtu.be/9IYahtP33bw|
 |3|Logic|https://youtu.be/l1QL1684XDY|
 |4|Probability|https://youtu.be/6ETIKZ6fUSc|
+|5|Linear Regression|https://youtu.be/2KA3yQxgUBw|
