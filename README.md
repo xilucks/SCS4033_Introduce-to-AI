@@ -8,3 +8,6 @@
 |3|Logic|https://youtu.be/l1QL1684XDY|
 |4|Probability|https://youtu.be/6ETIKZ6fUSc|
 |5|Linear Regression|https://youtu.be/2KA3yQxgUBw|
+|6|Decision Tree|https://youtu.be/ls2Ho98DjqU|
+|7|Ensemble Learning|https://youtu.be/GixhdfYONLI|
+
